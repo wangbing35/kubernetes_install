@@ -1,2 +1,2 @@
 # kubernetes_install
-user kubeadmin
+use kubeadmin
